@@ -1,5 +1,5 @@
-## Description ORG SCOPED
-Please include a summary of the changes and the issue(s) it addresses.
+## Summary
+Please include a summary of the changes using Copilot Summary tool.
 
 ## Type of Change
 - [ ] Bug fix
@@ -19,4 +19,4 @@ Please include a summary of the changes and the issue(s) it addresses.
 If applicable, add screenshots to help explain your changes.
 
 ## Linked Issues
-Closes #<issue_number>.
+Closes <jira-key>.
