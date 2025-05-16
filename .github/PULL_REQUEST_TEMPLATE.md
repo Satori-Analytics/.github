@@ -1,6 +1,7 @@
 ## Summary
 Please include a summary of the changes using Copilot Summary tool.
 
+<!-- branch-stack -->
 
 ## Checklist
 - [] My code follows the style guidelines of this project.
@@ -14,4 +15,4 @@ Please include a summary of the changes using Copilot Summary tool.
 If applicable, add screenshots to help explain your changes.
 
 ## Linked Issues
-Closes <jira-key>
+<jira-key>
