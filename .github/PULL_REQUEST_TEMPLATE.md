@@ -1,9 +1,12 @@
-## Summary
-Please include a summary of the changes using Copilot Summary tool.
-
 <!-- branch-stack -->
 
+## Summary
+
+Please include a summary of the changes using Copilot Summary tool.
+
+
 ## Checklist
+
 - [] My code follows the style guidelines of this project.
 - [] I have performed a self-review of my code.
 - [] I have commented my code, particularly in hard-to-understand areas.
@@ -12,7 +15,9 @@ Please include a summary of the changes using Copilot Summary tool.
 - [] Any dependent changes have been merged and published in downstream modules.
 
 ## Screenshots
+
 If applicable, add screenshots to help explain your changes.
 
 ## Linked Issues
+
 <jira-key>
